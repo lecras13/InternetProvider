@@ -1,0 +1,1503 @@
+03.12.2020 21:05:14 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 08:28:23 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 08:33:17 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 08:33:18 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 09:17:20 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 09:17:23 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 10:20:08 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 10:20:08 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 10:20:11 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 10:20:11 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 10:20:11 [http-bio-8087-exec-5] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+04.12.2020 10:20:15 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 10:20:15 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 10:20:15 [http-bio-8087-exec-6] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+04.12.2020 10:20:17 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 10:20:17 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 10:20:17 [http-bio-8087-exec-7] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+04.12.2020 10:22:00 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 10:22:00 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 10:22:00 [http-bio-8087-exec-9] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+04.12.2020 10:22:24 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 10:22:24 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 10:24:17 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 10:24:17 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 10:24:18 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 10:24:19 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 10:24:19 [http-bio-8087-exec-5] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+04.12.2020 10:25:07 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 10:25:07 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 10:25:08 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 10:25:08 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 10:58:23 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 10:58:23 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 10:59:03 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 10:59:03 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 11:01:22 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 11:01:22 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 11:01:27 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 11:01:30 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 11:01:43 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 11:01:43 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 12:23:55 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 12:23:55 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 13:16:16 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 13:16:16 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 13:16:22 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 13:16:25 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 13:20:47 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 13:20:47 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 13:21:07 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 13:21:07 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 13:24:13 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 13:24:13 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 13:31:10 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 13:31:10 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 13:35:25 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 13:35:25 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 13:36:49 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 13:36:49 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 14:18:28 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 14:18:33 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 14:19:10 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 14:19:10 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 14:20:21 [http-bio-8087-exec-2] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 14:20:21 [http-bio-8087-exec-2] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 14:20:38 [http-bio-8087-exec-2] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 14:20:38 [http-bio-8087-exec-2] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 14:28:09 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 14:28:09 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 14:29:00 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 14:29:00 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 14:46:08 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 14:46:08 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 14:46:20 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 14:46:20 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 14:48:26 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 14:48:26 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 14:48:30 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 14:48:30 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 14:49:37 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 14:49:37 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 14:55:00 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 14:55:00 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 14:57:06 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 14:57:06 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 14:57:21 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 14:57:21 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 19:22:00 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+04.12.2020 19:22:00 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 19:22:00 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 19:22:06 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 19:22:06 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 19:55:27 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 19:55:27 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 19:55:28 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 19:55:28 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 19:55:30 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 19:55:30 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 19:55:44 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 19:55:44 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 20:38:44 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+04.12.2020 20:38:45 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 20:38:45 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 20:42:30 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+04.12.2020 20:42:30 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 20:42:30 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 20:42:35 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 20:42:35 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 20:43:28 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 20:43:28 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 20:43:29 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 20:43:29 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 20:46:36 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+04.12.2020 20:46:36 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 20:46:36 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 20:46:39 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 20:46:39 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 21:12:19 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+04.12.2020 21:12:19 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 21:12:19 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 21:12:21 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 21:12:21 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 22:08:24 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+04.12.2020 22:08:24 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 22:08:24 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 22:08:28 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 22:08:28 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 22:41:26 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+04.12.2020 22:41:26 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 22:41:26 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 22:41:26 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 22:41:26 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+04.12.2020 22:41:28 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+04.12.2020 22:41:31 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 08:21:26 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+05.12.2020 08:21:26 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 08:21:26 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 08:27:44 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+05.12.2020 08:27:44 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 08:27:44 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 08:27:50 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 08:27:50 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 08:27:51 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 08:27:51 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 08:30:33 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+05.12.2020 08:30:33 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 08:30:33 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 08:37:32 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+05.12.2020 08:37:32 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 08:37:32 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 08:44:00 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+05.12.2020 08:44:00 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 08:44:00 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 08:45:32 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+05.12.2020 08:45:32 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 08:45:32 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 09:06:11 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+05.12.2020 09:06:11 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 09:06:11 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 09:14:04 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+05.12.2020 09:14:04 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 09:14:04 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 09:14:26 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 09:14:26 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 09:28:14 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+05.12.2020 09:28:14 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 09:28:14 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 09:28:19 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 09:28:19 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 09:28:22 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 09:28:22 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 09:29:37 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+05.12.2020 09:29:37 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 09:29:37 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 09:29:38 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 09:29:38 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 09:51:07 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+05.12.2020 09:51:07 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 09:51:07 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 09:51:07 [http-bio-8087-exec-4] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+05.12.2020 09:52:10 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+05.12.2020 09:52:10 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 09:52:10 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 09:52:12 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 09:52:12 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 10:02:28 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+05.12.2020 10:02:28 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 10:02:28 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 10:02:30 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 10:02:30 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 10:03:15 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+05.12.2020 10:03:15 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 10:03:15 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 10:03:18 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 10:03:18 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 10:03:23 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 10:03:23 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 10:03:24 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 10:03:24 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 10:05:07 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+05.12.2020 10:05:07 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 10:05:07 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 10:05:07 [http-bio-8087-exec-5] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+05.12.2020 10:05:23 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 10:05:23 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 10:05:23 [http-bio-8087-exec-6] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+05.12.2020 10:05:25 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 10:05:25 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 10:05:25 [http-bio-8087-exec-7] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+05.12.2020 10:07:05 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+05.12.2020 10:07:05 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 10:07:05 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 10:07:05 [http-bio-8087-exec-5] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+05.12.2020 10:07:49 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+05.12.2020 10:07:49 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 10:07:49 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 10:07:49 [http-bio-8087-exec-4] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+05.12.2020 10:08:34 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+05.12.2020 10:08:34 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 10:08:34 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 10:08:36 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 10:08:36 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 12:00:51 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 12:00:51 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 12:01:09 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 12:01:09 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 12:56:49 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 12:56:49 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 12:56:50 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 12:56:50 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 12:57:12 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 12:57:12 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 12:57:16 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 12:57:16 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+05.12.2020 12:57:24 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+05.12.2020 12:57:24 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+07.12.2020 10:44:27 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+07.12.2020 10:44:27 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+07.12.2020 10:44:27 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+07.12.2020 10:44:30 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+07.12.2020 10:44:30 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+07.12.2020 10:45:09 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+07.12.2020 10:45:09 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+08.12.2020 10:26:55 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+08.12.2020 10:26:57 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+08.12.2020 10:26:57 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+08.12.2020 10:27:02 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+08.12.2020 10:27:02 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+08.12.2020 10:27:55 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+08.12.2020 10:27:55 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+08.12.2020 10:27:55 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+08.12.2020 10:39:27 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+08.12.2020 10:39:27 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+08.12.2020 10:39:35 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+08.12.2020 10:39:35 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+08.12.2020 10:39:36 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+08.12.2020 10:39:36 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 11:46:22 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 11:46:26 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 11:46:26 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 11:47:04 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 11:47:04 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 11:47:04 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 12:21:04 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 12:21:04 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 12:21:04 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 12:23:01 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 12:23:01 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 12:23:01 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 12:26:52 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 12:26:52 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 12:26:52 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 12:35:49 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 12:35:49 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 12:35:49 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 12:37:05 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 12:37:05 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 12:37:05 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 12:37:21 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 12:37:21 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 12:39:08 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 12:39:08 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 12:39:08 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 12:42:22 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 12:42:22 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 12:42:22 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 12:43:58 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 12:43:58 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 12:43:58 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 12:45:36 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 12:45:36 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 12:45:36 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 12:47:10 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 12:47:10 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 12:47:10 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 12:48:26 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 12:48:26 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 12:48:26 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 12:52:23 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 12:52:23 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 12:52:23 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 12:57:06 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 12:57:06 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 12:57:06 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:07:11 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:07:11 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:07:11 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:08:05 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:08:05 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:08:05 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:10:43 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:10:43 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:10:43 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:14:36 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:14:36 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:14:36 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:15:56 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:15:56 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:15:56 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:20:16 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:20:16 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:20:16 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:20:52 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:20:52 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:20:52 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:22:30 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:22:34 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:22:34 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:23:18 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:23:18 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:23:18 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:23:46 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:23:46 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:23:46 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:24:13 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:24:13 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:24:13 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:24:43 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:24:43 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:24:43 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:26:33 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:26:33 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:26:33 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:28:09 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:28:09 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:28:09 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:28:48 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:28:48 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:28:48 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:30:22 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:30:22 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:30:22 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:34:17 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:34:17 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:34:17 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:38:23 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:38:23 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:38:23 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:38:46 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:38:46 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:39:16 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:39:16 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:43:22 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:43:22 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:46:58 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:46:58 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:46:58 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:47:12 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:47:12 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:48:48 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:48:48 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:48:48 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:48:55 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:48:55 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:49:31 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:49:31 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:49:31 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:49:33 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:49:33 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:50:58 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:50:58 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:50:58 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:52:53 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:52:53 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:52:53 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:53:19 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:53:19 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:53:19 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:54:53 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:54:53 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:54:53 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:56:29 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:56:29 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:56:29 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:56:37 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:56:37 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:56:42 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:56:45 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 13:57:36 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 13:57:36 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 13:57:36 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 14:32:07 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 14:32:07 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 14:32:07 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 14:35:07 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 14:35:07 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 14:35:07 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 14:35:32 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 14:35:32 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 14:35:32 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 14:36:26 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 14:36:26 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 14:36:26 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 14:41:24 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 14:41:24 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 14:41:24 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 14:42:05 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 14:42:05 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 14:42:05 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 14:42:07 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 14:42:07 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 14:42:19 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 14:42:19 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 14:44:27 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 14:44:27 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 14:44:27 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 14:44:29 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 14:44:29 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 14:44:36 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 14:44:36 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 14:49:27 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 14:49:27 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 14:49:29 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 14:49:29 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 14:49:37 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 14:49:37 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 14:52:10 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 14:52:10 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 14:52:10 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 14:52:12 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 14:52:12 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 14:52:18 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 14:52:18 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 14:52:51 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 14:52:51 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 14:52:51 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 14:59:51 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 14:59:51 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 14:59:51 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:02:05 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 15:02:05 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:02:05 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:02:38 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:02:38 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:08:48 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 15:08:48 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:08:48 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:08:56 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:08:59 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:09:06 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:09:06 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:09:06 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:09:06 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:09:32 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:09:32 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:09:35 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:09:35 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:09:37 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:09:37 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:10:26 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 15:10:26 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:10:26 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:12:15 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 15:12:15 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:12:15 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:12:18 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:12:18 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:12:22 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:12:22 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:12:31 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:12:31 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:13:47 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 15:13:47 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:13:47 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:13:49 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:13:49 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:13:58 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:13:58 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:18:03 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 15:18:03 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:18:03 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:18:55 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 15:18:55 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:18:55 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:22:32 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 15:22:32 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:22:32 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:24:39 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 15:24:39 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:24:39 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:26:39 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 15:26:39 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:26:39 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:26:44 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:26:44 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:26:45 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:26:46 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:26:55 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:26:55 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:27:37 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:27:37 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:27:39 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:27:39 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:27:44 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:27:44 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:30:15 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 15:30:15 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:30:15 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 15:49:42 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 15:49:42 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 15:49:42 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 17:17:08 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 17:17:09 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 17:17:09 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 17:17:13 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 17:17:13 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 17:17:42 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 17:17:42 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 17:21:06 [http-bio-8087-exec-2] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 17:21:06 [http-bio-8087-exec-2] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 17:21:24 [http-bio-8087-exec-2] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 17:21:24 [http-bio-8087-exec-2] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 21:52:10 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 21:52:10 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 21:52:10 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 21:53:57 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 21:53:57 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 21:53:57 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 21:56:00 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 21:56:00 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 21:56:00 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:03:20 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 22:03:20 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:03:20 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:07:29 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 22:07:29 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:07:29 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:08:33 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 22:08:33 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:08:33 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:09:55 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 22:09:55 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:09:55 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:17:56 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 22:17:56 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:17:56 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:19:47 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 22:19:47 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:19:47 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:22:09 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 22:22:09 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:22:09 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:26:00 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 22:26:00 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:26:00 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:26:51 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 22:26:51 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:26:51 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:26:56 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:26:56 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:28:26 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 22:28:26 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:28:26 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:28:31 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:28:31 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:28:56 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:28:56 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:30:17 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:30:17 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:32:12 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 22:32:12 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:32:12 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:34:18 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 22:34:18 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:34:18 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:38:18 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 22:38:18 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:38:18 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:42:07 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 22:42:07 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:42:07 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:45:27 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+09.12.2020 22:45:27 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:45:27 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+09.12.2020 22:45:29 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+09.12.2020 22:45:29 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 15:27:41 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 15:27:41 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 15:27:41 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 15:27:43 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 15:27:43 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 15:51:23 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 15:51:23 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 15:51:23 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 15:51:24 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 15:51:24 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 15:51:34 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 15:51:34 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 15:51:44 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 15:51:44 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 15:51:56 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 15:51:56 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 15:51:57 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 15:51:57 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 15:55:17 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 15:55:17 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 15:55:17 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 15:55:18 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 15:55:18 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 15:55:20 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 15:55:20 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 15:56:07 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 15:56:07 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 15:56:07 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 15:56:08 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 15:56:08 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 16:17:33 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 16:17:33 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 18:10:20 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 18:10:20 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 18:10:20 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 18:10:24 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 18:10:24 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 18:14:43 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 18:14:43 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 18:14:43 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 18:14:44 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 18:14:44 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 18:19:24 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 18:19:24 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 19:21:34 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 19:21:34 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:21:34 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 19:21:35 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:21:35 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 19:23:21 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 19:23:21 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:23:21 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+11.12.2020 19:24:32 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 19:24:32 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:24:32 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+11.12.2020 19:25:22 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:25:22 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 19:25:24 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:25:24 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 19:25:25 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:25:25 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+11.12.2020 19:27:18 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 19:27:18 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:27:18 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+11.12.2020 19:29:56 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 19:29:56 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:29:56 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+11.12.2020 19:36:25 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 19:36:25 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:36:25 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+11.12.2020 19:38:08 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 19:38:08 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:38:08 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+11.12.2020 19:40:39 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 19:40:39 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:40:39 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+11.12.2020 19:41:30 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 19:41:30 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:41:30 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+11.12.2020 19:43:59 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 19:43:59 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:43:59 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+11.12.2020 19:51:25 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 19:51:25 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:51:25 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+11.12.2020 19:54:15 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 19:54:15 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:54:15 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+11.12.2020 19:55:42 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 19:55:42 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:55:42 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+11.12.2020 19:55:48 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:55:48 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+11.12.2020 19:56:03 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:56:03 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+11.12.2020 19:56:24 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:56:24 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+11.12.2020 19:59:11 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+11.12.2020 19:59:11 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:59:11 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+11.12.2020 19:59:32 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:59:32 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+11.12.2020 19:59:33 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:59:33 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+11.12.2020 19:59:39 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:59:39 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 19:59:48 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 19:59:48 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 20:00:03 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 20:00:03 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 20:00:07 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 20:00:07 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+11.12.2020 20:00:15 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+11.12.2020 20:00:15 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:22:41 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+12.12.2020 09:22:41 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:22:41 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:22:42 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:22:42 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:22:42 [http-bio-8087-exec-7] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+12.12.2020 09:24:02 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+12.12.2020 09:24:02 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:24:02 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:24:04 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:24:04 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:24:04 [http-bio-8087-exec-5] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+12.12.2020 09:25:14 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+12.12.2020 09:25:14 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:25:14 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+12.12.2020 09:25:21 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:25:21 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:25:22 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:25:24 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:25:24 [http-bio-8087-exec-6] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+12.12.2020 09:27:06 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+12.12.2020 09:27:06 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:27:06 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:27:07 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:27:07 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:28:06 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+12.12.2020 09:28:06 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:28:06 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:28:07 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:28:07 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:37:39 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+12.12.2020 09:37:39 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:37:39 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:37:41 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:37:41 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:38:43 [http-bio-8087-exec-2] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+12.12.2020 09:38:43 [http-bio-8087-exec-2] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:38:43 [http-bio-8087-exec-2] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:38:44 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:38:44 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:44:37 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+12.12.2020 09:44:37 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:44:37 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:44:38 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:44:38 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:44:43 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:44:43 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:44:44 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:44:44 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:44:46 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:44:46 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:45:51 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:45:51 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:45:55 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:45:55 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:47:02 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:47:02 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:47:03 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:47:03 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:47:03 [http-bio-8087-exec-5] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+12.12.2020 09:47:50 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+12.12.2020 09:47:50 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:47:50 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:47:52 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:47:52 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:47:55 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:47:55 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 09:47:57 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 09:47:57 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:08:51 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+12.12.2020 10:08:51 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:08:51 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:08:53 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:08:53 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:08:53 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:08:53 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:08:59 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:08:59 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:08:59 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:08:59 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:09:01 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:09:01 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:09:01 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:09:01 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:09:04 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:09:08 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:09:08 [http-bio-8087-exec-2] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:09:08 [http-bio-8087-exec-2] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:09:08 [http-bio-8087-exec-2] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:09:08 [http-bio-8087-exec-2] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:09:08 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:09:08 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:11:43 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+12.12.2020 10:11:43 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:11:43 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:11:44 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:11:44 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:11:44 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:11:44 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:11:49 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:11:49 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:11:49 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:11:49 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:11:50 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:11:50 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:11:50 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:11:50 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:13:12 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+12.12.2020 10:13:12 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:13:12 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:13:13 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:13:13 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:13:13 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:13:13 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:13:31 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:13:31 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:13:31 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:13:31 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:13:32 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:13:32 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:13:32 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:13:32 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:13:33 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:13:33 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:13:33 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:13:33 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:14:06 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+12.12.2020 10:14:06 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:14:06 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:14:07 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:14:07 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:14:07 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:14:07 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:14:10 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:14:10 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:14:10 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:14:10 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:14:12 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:14:12 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+12.12.2020 10:14:12 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+12.12.2020 10:14:12 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+14.12.2020 10:14:51 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+14.12.2020 10:14:51 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+14.12.2020 10:14:51 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+14.12.2020 10:14:51 [http-bio-8087-exec-5] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+14.12.2020 10:44:24 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+14.12.2020 10:44:24 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+14.12.2020 10:44:24 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+14.12.2020 10:44:27 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+14.12.2020 10:44:29 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+14.12.2020 10:44:29 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+14.12.2020 10:44:29 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+14.12.2020 10:44:41 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+14.12.2020 10:44:41 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+14.12.2020 10:44:41 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+14.12.2020 10:44:41 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+14.12.2020 10:44:54 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+14.12.2020 10:44:54 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+14.12.2020 15:54:28 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+14.12.2020 15:54:28 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+14.12.2020 15:54:35 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+14.12.2020 15:54:35 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+14.12.2020 15:55:41 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+14.12.2020 15:55:41 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+14.12.2020 16:44:02 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+14.12.2020 16:44:02 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:07:44 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 10:07:44 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 10:07:44 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:07:45 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 10:07:45 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:07:45 [http-bio-8087-exec-7] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+15.12.2020 10:08:38 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 10:08:38 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 10:08:38 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:08:39 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 10:08:39 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:08:39 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 10:08:39 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:08:51 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 10:08:51 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:08:51 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 10:08:51 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:26:47 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 10:26:47 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 10:26:47 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:26:47 [http-bio-8087-exec-3] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+15.12.2020 10:31:55 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 10:31:55 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 10:31:55 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:31:55 [http-bio-8087-exec-3] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+15.12.2020 10:34:11 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 10:34:11 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 10:34:11 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:34:13 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 10:34:13 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:34:13 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 10:34:13 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:45:28 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 10:45:28 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 10:45:28 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:45:28 [http-bio-8087-exec-3] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+15.12.2020 10:45:56 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 10:45:56 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:45:56 [http-bio-8087-exec-4] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+15.12.2020 10:47:23 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 10:47:23 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 10:47:23 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:47:25 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 10:47:25 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:47:25 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 10:47:25 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:50:19 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 10:50:19 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 10:50:19 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:50:19 [http-bio-8087-exec-3] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+15.12.2020 10:54:52 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 10:54:52 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 10:54:52 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 10:54:52 [http-bio-8087-exec-3] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+15.12.2020 11:09:27 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 11:09:27 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 11:09:27 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 11:09:27 [http-bio-8087-exec-3] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+15.12.2020 11:36:30 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 11:36:30 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 11:36:30 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 11:36:31 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 11:36:31 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 11:36:31 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 11:36:31 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 11:36:35 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 11:36:38 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 11:36:38 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 11:36:38 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 11:36:40 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 11:36:40 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 11:36:40 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 11:36:40 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 11:36:50 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 11:36:50 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 11:36:50 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 11:36:50 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 11:36:55 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 11:36:56 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 11:36:56 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 11:36:56 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 11:47:11 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 11:47:11 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 11:47:11 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 11:47:11 [http-bio-8087-exec-3] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+15.12.2020 21:26:15 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 21:26:15 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:26:15 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:26:15 [http-bio-8087-exec-4] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+15.12.2020 21:27:59 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 21:27:59 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:27:59 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:28:08 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:28:08 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:28:08 [http-bio-8087-exec-6] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+15.12.2020 21:28:14 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:28:14 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:28:14 [http-bio-8087-exec-8] INFO  com.epam.web.dao.AbstractDao - Error with sqlQuery
+15.12.2020 21:29:49 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 21:29:51 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:29:51 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:29:52 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:29:52 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:29:52 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:29:52 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:30:33 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:30:33 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 21:30:36 [http-bio-8087-exec-2] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:30:36 [http-bio-8087-exec-2] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 21:38:54 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 21:38:54 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:38:54 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:38:55 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:38:55 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 21:38:57 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:39:04 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:39:04 [http-bio-8087-exec-2] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:39:04 [http-bio-8087-exec-2] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:39:04 [http-bio-8087-exec-2] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:39:04 [http-bio-8087-exec-2] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:39:04 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:39:04 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:39:06 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:39:06 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:39:06 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:39:06 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:39:10 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:39:10 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:39:10 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:39:10 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:39:16 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:39:16 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:39:16 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:39:16 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:39:17 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:39:17 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:39:17 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:39:17 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:43:07 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 21:43:07 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:43:07 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:43:13 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:43:13 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 21:43:19 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:43:19 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 21:43:22 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:43:22 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 21:46:36 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 21:46:36 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:46:36 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:47:50 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 21:47:50 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:47:50 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:48:57 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 21:48:57 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:48:57 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:48:59 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:48:59 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 21:57:36 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 21:57:36 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:57:36 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 21:57:37 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:57:37 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 21:57:52 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:57:52 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 21:57:54 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 21:57:54 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 23:30:28 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 23:30:28 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 23:30:28 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 23:30:55 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 23:30:55 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 23:31:12 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 23:31:12 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 23:32:03 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 23:32:03 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 23:32:03 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 23:32:12 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 23:32:12 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 23:33:33 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 23:33:33 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 23:33:33 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 23:33:37 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 23:33:37 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 23:36:37 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 23:36:37 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 23:36:37 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 23:36:45 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 23:36:45 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 23:43:21 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 23:43:21 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 23:43:21 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 23:43:31 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 23:43:31 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 23:43:34 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 23:43:34 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 23:43:49 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 23:43:49 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 23:43:54 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 23:43:54 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 23:44:44 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+15.12.2020 23:44:44 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 23:44:44 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+15.12.2020 23:44:57 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 23:44:58 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+15.12.2020 23:45:00 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+15.12.2020 23:45:00 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 10:38:29 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+16.12.2020 10:38:30 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:38:30 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 10:38:38 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:38:38 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 10:38:52 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:38:52 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 10:38:56 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:38:56 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 10:38:57 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:38:57 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 10:39:01 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:39:01 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 10:48:14 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+16.12.2020 10:48:14 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:48:14 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 10:48:21 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:48:21 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 10:48:23 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:48:23 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 10:49:17 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+16.12.2020 10:49:17 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:49:17 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 10:49:18 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:49:18 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 10:50:16 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+16.12.2020 10:50:16 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:50:16 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 10:50:29 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:50:29 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 10:50:31 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:50:31 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 10:52:50 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+16.12.2020 10:52:50 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:52:50 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 10:52:52 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:52:55 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 10:53:38 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+16.12.2020 10:53:38 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:53:38 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 10:53:39 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:53:39 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 10:54:29 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+16.12.2020 10:54:29 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:54:29 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 10:54:30 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 10:54:35 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 11:16:51 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 11:16:51 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 11:18:16 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+16.12.2020 11:18:16 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 11:18:16 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 11:18:25 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 11:18:25 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 11:18:29 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 11:18:29 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 12:51:03 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 12:51:03 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 14:04:55 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 14:04:55 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 14:04:59 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 14:04:59 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 14:05:00 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 14:05:03 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 14:07:36 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 14:07:36 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 14:09:56 [http-bio-8087-exec-2] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 14:09:56 [http-bio-8087-exec-2] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 14:17:06 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 14:17:06 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 14:18:57 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 14:18:57 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 14:25:02 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+16.12.2020 14:25:02 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 14:25:02 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 14:25:08 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 14:25:08 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 14:49:52 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+16.12.2020 14:49:52 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 14:49:52 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 14:49:54 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 14:49:54 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 14:52:43 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+16.12.2020 14:52:43 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 14:52:43 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 14:52:45 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 14:52:45 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 15:12:18 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+16.12.2020 15:12:18 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 15:12:18 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 15:12:20 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 15:12:20 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 15:13:30 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+16.12.2020 15:13:30 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 15:13:30 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 15:13:31 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 15:13:31 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 15:21:55 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+16.12.2020 15:21:55 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 15:21:55 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 15:22:02 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 15:22:02 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 15:22:04 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 15:22:04 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 15:22:04 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 15:22:04 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 15:22:04 [http-bio-8087-exec-2] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 15:22:04 [http-bio-8087-exec-2] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 15:23:29 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+16.12.2020 15:23:29 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 15:23:29 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 15:23:30 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 15:23:30 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+16.12.2020 22:55:14 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 22:55:15 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 22:55:20 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 22:55:20 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+16.12.2020 22:55:22 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+16.12.2020 22:55:22 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+17.12.2020 14:24:05 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+17.12.2020 14:24:06 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+17.12.2020 14:24:06 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+17.12.2020 14:26:04 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+17.12.2020 14:26:04 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+17.12.2020 14:26:04 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+17.12.2020 14:26:12 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+17.12.2020 14:26:12 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+17.12.2020 14:26:15 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+17.12.2020 14:26:15 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+17.12.2020 14:26:18 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+17.12.2020 14:26:18 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+17.12.2020 14:30:44 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+17.12.2020 14:30:44 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+17.12.2020 14:30:44 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+17.12.2020 14:30:48 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+17.12.2020 14:30:48 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+17.12.2020 14:30:49 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+17.12.2020 14:30:55 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+17.12.2020 14:31:58 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+17.12.2020 14:31:58 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+17.12.2020 14:31:58 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+17.12.2020 14:32:04 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+17.12.2020 14:32:04 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+17.12.2020 14:34:23 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+17.12.2020 14:34:23 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+17.12.2020 14:34:23 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+17.12.2020 14:34:30 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+17.12.2020 14:34:30 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+17.12.2020 14:34:32 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+17.12.2020 14:34:32 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+17.12.2020 14:36:24 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+17.12.2020 14:36:24 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+17.12.2020 14:36:24 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+17.12.2020 14:36:25 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+17.12.2020 14:36:25 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+17.12.2020 14:36:40 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+17.12.2020 14:36:40 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 18:22:09 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 18:22:10 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:22:10 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 18:22:15 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:22:15 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 18:22:17 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:22:17 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 18:30:35 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 18:30:35 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:30:35 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 18:30:37 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:30:37 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 18:33:02 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 18:33:02 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:33:02 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 18:33:03 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:33:03 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 18:33:08 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:33:08 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 18:33:12 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:33:12 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 18:33:40 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:33:40 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 18:34:43 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 18:34:43 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:34:43 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 18:34:44 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:34:44 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 18:34:52 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:34:52 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 18:34:58 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:34:58 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 18:38:35 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 18:38:35 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:38:35 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 18:38:36 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:38:36 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 18:42:20 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 18:42:20 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:42:20 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 18:42:22 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:42:22 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 18:46:21 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 18:46:21 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:46:21 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 18:46:23 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:46:23 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 18:55:08 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 18:55:08 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:55:08 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 18:55:12 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:55:12 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 18:56:55 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 18:56:55 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:56:55 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 18:56:56 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:57:02 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 18:57:29 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:57:29 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 18:58:19 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 18:58:19 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 18:58:19 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:00:23 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 19:00:23 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:00:23 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 19:00:25 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:00:25 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:00:33 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:00:33 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:06:38 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 19:06:38 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:06:38 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 19:06:40 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:06:40 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:06:45 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:06:45 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:10:20 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 19:10:20 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:10:20 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 19:10:21 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:10:21 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:10:26 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:10:26 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:14:57 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 19:14:57 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:14:57 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 19:14:58 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:14:58 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:15:06 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:15:06 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:19:48 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 19:19:48 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:19:48 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 19:19:50 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:19:50 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:19:58 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:19:58 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:24:07 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 19:24:07 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:24:07 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 19:24:08 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:24:08 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:24:14 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:24:14 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:27:22 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 19:27:22 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:27:22 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 19:27:23 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:27:23 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:27:30 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:27:30 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:28:31 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 19:28:31 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:28:31 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:34:20 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 19:34:20 [http-bio-8087-exec-1] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:34:20 [http-bio-8087-exec-1] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 19:34:22 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:34:22 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:36:22 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 19:36:22 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:36:22 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 19:36:34 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:36:34 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:37:41 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 19:37:41 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:37:41 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 19:37:42 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:37:42 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:40:06 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 19:40:06 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:40:06 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 19:40:08 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:40:08 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:45:17 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 19:45:17 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:45:17 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 19:45:25 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:45:25 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:45:35 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:45:35 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:45:58 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:45:58 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 19:46:15 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 19:46:15 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:31:26 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 20:31:26 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:31:26 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 20:31:27 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:31:27 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:31:36 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:31:39 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:35:56 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 20:35:56 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:35:56 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 20:35:57 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:35:57 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:36:04 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:36:07 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:36:10 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:36:10 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:36:46 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:36:46 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:36:47 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:36:47 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:42:01 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 20:42:01 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:42:01 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:42:07 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:42:07 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 20:42:09 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:42:11 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:44:22 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:44:22 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:44:22 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:44:22 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:45:27 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:45:27 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:45:27 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:45:27 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:45:30 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:45:30 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:45:30 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:45:30 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:45:41 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:45:41 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:45:41 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:45:41 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:46:11 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:46:11 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:46:11 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:46:11 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:47:01 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 20:47:01 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:47:01 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 20:47:02 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:47:02 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:47:06 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:47:06 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:50:53 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 20:50:53 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:50:53 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:51:08 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:51:08 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 20:51:10 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:51:10 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 20:51:10 [http-bio-8087-exec-8] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:51:10 [http-bio-8087-exec-8] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 20:51:10 [http-bio-8087-exec-9] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:51:10 [http-bio-8087-exec-9] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+18.12.2020 20:53:50 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+18.12.2020 20:53:50 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:53:50 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+18.12.2020 20:53:51 [http-bio-8087-exec-7] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+18.12.2020 20:53:51 [http-bio-8087-exec-7] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+19.12.2020 13:50:50 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+19.12.2020 13:50:52 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 13:50:52 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+19.12.2020 13:51:09 [http-bio-8087-exec-2] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 13:51:09 [http-bio-8087-exec-2] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+19.12.2020 13:51:23 [http-bio-8087-exec-6] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 13:51:23 [http-bio-8087-exec-6] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+19.12.2020 13:55:58 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+19.12.2020 13:55:58 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 13:55:58 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+19.12.2020 18:16:57 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+19.12.2020 18:16:57 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 18:16:57 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+19.12.2020 18:22:13 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 18:22:13 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+19.12.2020 18:27:54 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+19.12.2020 18:27:54 [http-bio-8087-exec-5] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 18:27:54 [http-bio-8087-exec-5] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+19.12.2020 18:35:13 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+19.12.2020 18:35:13 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 18:35:13 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+19.12.2020 18:45:29 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Pool Created successfully.
+19.12.2020 18:45:29 [http-bio-8087-exec-3] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 18:45:29 [http-bio-8087-exec-3] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+19.12.2020 18:46:20 [http-bio-8087-exec-4] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 18:46:20 [http-bio-8087-exec-4] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+19.12.2020 18:47:16 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 18:47:16 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+19.12.2020 18:47:19 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 18:47:19 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+19.12.2020 18:47:23 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 18:47:23 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
+19.12.2020 18:47:34 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 18:47:34 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+19.12.2020 18:47:36 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 18:47:36 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+19.12.2020 18:47:36 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 18:47:36 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+19.12.2020 18:47:47 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 18:47:47 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+19.12.2020 18:47:47 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 18:47:47 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+19.12.2020 18:47:49 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 18:47:49 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+19.12.2020 18:47:49 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 18:47:49 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - USER_HELPER in load
+19.12.2020 18:47:52 [http-bio-8087-exec-10] INFO  epam.web.controller.connection.ConnectionPool - Connection has been given
+19.12.2020 18:47:52 [http-bio-8087-exec-10] INFO  com.epam.web.dao.DaoHelper - Tariff_HELPER in load
