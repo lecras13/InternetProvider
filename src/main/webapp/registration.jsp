@@ -1,4 +1,4 @@
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page contentType="text/html;charset=UTF-8" pageEncoding="UTF-8" language="java" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 <%@ page isELIgnored="false" %>
@@ -16,7 +16,6 @@
 <body>
 <div class="header-panel">
     <jsp:include page="WEB-INF/view/template/header.jsp"/>
-
 </div>
 <c:if test="${sessionScope.userRole eq 'ADMIN'}">
     <div>
@@ -25,8 +24,7 @@
     <hr/>
     <div class="right">
         <H2>Hello, ${sessionScope.login}!</H2>
-        <a href="/controller?command=logout">Logout</a>
-
+        <a href="${pageContext.request.contextPath}/controller?command=logout">Logout</a>
     </div>
     <hr/>
 </c:if>
@@ -37,14 +35,13 @@
     <hr/>
     <div class="right">
         <H2>Hello, ${sessionScope.login}!</H2>
-        <a href="/controller?command=logout">Logout</a>
-
+        <a href="${pageContext.request.contextPath}/controller?command=logout">Logout</a>
     </div>
     <hr/>
 </c:if>
 
 <div id="content">
-    <form action="/controller?command=registration" method=POST>
+    <form action="${pageContext.request.contextPath}/controller?command=registration" method=POST>
         <table class="reg_form">
             <tr>
                 <td>Login</td>
@@ -80,7 +77,8 @@
                 </td>
             </tr>
             <tr>
-            </tr>>
+            </tr>
+
             <tr>
                 <td>
                 </td>

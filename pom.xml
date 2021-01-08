@@ -23,8 +23,15 @@
   <dependencies>
     <dependency>
       <groupId>javax.servlet</groupId>
-      <artifactId>servlet-api</artifactId>
-      <version>2.5</version>
+      <artifactId>javax.servlet-api</artifactId>
+      <version>3.1.0</version>
+      <scope>provided</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>javax.servlet.jsp</groupId>
+      <artifactId>jsp-api</artifactId>
+      <version>2.2</version>
       <scope>provided</scope>
     </dependency>
 
@@ -59,7 +66,7 @@
   </dependencies>
 
   <build>
-    <finalName>thirdServlet</finalName>
+    <finalName>InternetProvider</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>

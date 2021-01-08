@@ -1,8 +1,8 @@
-
 package com.epam.web.controller.connection;
 
 import com.epam.web.exception.ConnectionPoolException;
-import com.epam.web.exception.DaoException;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.sql.*;
 import java.util.Map;
@@ -10,7 +10,8 @@ import java.util.Properties;
 import java.util.concurrent.Executor;
 
 public class ProxyConnection implements Connection {
-    private Connection connection;
+    private static final Logger LOGGER = LogManager.getLogger(ProxyConnection.class);
+    private final Connection connection;
 
     ProxyConnection(Connection connection) {
         this.connection = connection;
@@ -26,6 +27,7 @@ public class ProxyConnection implements Connection {
         try {
             ConnectionPool.getInstance().releaseConnection(this);
         } catch (ConnectionPoolException e) {
+            LOGGER.error("ConnectionPoolException when trying to close connection!");
             e.printStackTrace();
         }
     }

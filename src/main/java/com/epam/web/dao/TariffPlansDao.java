@@ -5,7 +5,6 @@ import com.epam.web.exception.DaoException;
 
 import java.util.List;
 
-
-public interface TariffPlansDao extends Dao<TariffPlan> {
-    List<TariffPlan> getTariffPlans() throws DaoException;
+public interface TariffPlansDao extends DaoPersistent<TariffPlan> {
+    List<TariffPlan> getTariffPlansForPage(int firstRow, int rowCount) throws DaoException;
 }

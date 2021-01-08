@@ -2,10 +2,12 @@ package com.epam.web.controller.command.impl;
 
 import com.epam.web.controller.command.Command;
 import com.epam.web.controller.command.CommandResult;
-import com.epam.web.entity.Role;
-import com.epam.web.entity.User;
+import com.epam.web.controller.command.PageController;
+import com.epam.web.entity.dto.UserDto;
 import com.epam.web.exception.ServiceException;
+import com.epam.web.service.UserDtoService;
 import com.epam.web.service.UserService;
+import com.epam.web.service.impl.UserDtoServiceImpl;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -14,36 +16,31 @@ import java.util.List;
 public class UsersCommand implements Command {
     private static final String USERS_PAGE = "/WEB-INF/view/pages/admin-users.jsp";
     private static final String USERS = "users";
-    private static final int RECORDS_ON_PAGE = 4;
-    private static final String PAGE = "page";
+    private static final int RECORDS_ON_PAGE = 5;
     private static final String NO_OF_PAGES = "noOfPages";
     private static final String CURRENT_PAGE = "currentPage";
 
+    private final UserDtoService userDtoService;
+    private final UserService userService;
+    private final PageController pageController;
 
-    private final UserService service;
-
-    public UsersCommand(UserService service) {
-        this.service = service;
+    public UsersCommand(UserDtoServiceImpl userDtoService, UserService userService, PageController pageController) {
+        this.userDtoService = userDtoService;
+        this.userService = userService;
+        this.pageController = pageController;
     }
 
-
     @Override
-    public CommandResult execute(HttpServletRequest req, HttpServletResponse resp) throws ServiceException {
-        int page = 1;
-        int recordsPerPage = 4;
+    public CommandResult execute(HttpServletRequest request, HttpServletResponse response) throws ServiceException {
+        int currentPage = pageController.getCurrentPage(request);
+        List<UserDto> userDtoList = userDtoService.getUserDtoForPage((currentPage - 1) * RECORDS_ON_PAGE, RECORDS_ON_PAGE);
 
-        if (req.getParameter(PAGE) != null) {
-            page = Integer.parseInt(req.getParameter(PAGE));
-        }
+        int numberOfRecords = userService.getAllUsers().size();
+        int numberPages = pageController.getNumberPages(numberOfRecords, RECORDS_ON_PAGE);
 
-        List<User> users = service.getAllUsersForPage((page - 1) * RECORDS_ON_PAGE, RECORDS_ON_PAGE);
-        List<User> usersAll = service.getAllUsers();
-        int noOfRecords = usersAll.size();
-        int noOfPages = (int) Math.ceil(noOfRecords * 1.0 / RECORDS_ON_PAGE);
-        req.setAttribute(NO_OF_PAGES, noOfPages);
-        req.setAttribute(CURRENT_PAGE, page);
-        req.setAttribute(USERS, users);
+        request.setAttribute(NO_OF_PAGES, numberPages);
+        request.setAttribute(CURRENT_PAGE, currentPage);
+        request.setAttribute(USERS, userDtoList);
         return CommandResult.forward(USERS_PAGE);
-
     }
 }

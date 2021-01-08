@@ -16,17 +16,10 @@
 <body>
 
 
-
 <div>
     <ul>
-        <li><a href="/controller?command=users" class="mainmenu1" method=POST>Моя страница</a></li>
-
-        <li><a href="Sheets/page2.html" class="mainmenu1">Пополнить баланс</a></li>
-
-        <li><a href="Sheets/page2.html" class="mainmenu1">Изменить тарифный план</a></li>
-
-        <li><a href="Sheets/page3.html" class="mainmenu1">Изменить личные параметры</a></li>
-
+        <li><a href="${pageContext.request.contextPath}/controller?command=info"><fmt:message key="toolbar.info"/></a>
+        </li>
     </ul>
 </div>
 </body>

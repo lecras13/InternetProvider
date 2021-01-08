@@ -18,13 +18,14 @@
 
 <div class="admin-panel">
     <ul>
-        <li><a href="/controller?command=users" class="mainmenu1" method=POST><fmt:message key="user.list"/></a></li>
+        <li><a href="${pageContext.request.contextPath}/controller?command=users" method=POST><fmt:message
+                key="user.list"/></a></li>
 
-        <li><a href="/controller?command=tariffs" method=POST><fmt:message key="toolbar.tariff"/></a></li>
+        <li><a href="${pageContext.request.contextPath}/controller?command=tariffs-edit" method=POST><fmt:message
+                key="tariff.add"/></a></li>
 
-        <li><a href="Sheets/page2.html" class="mainmenu1"><fmt:message key="toolbar.promotions"/></a></li>
-
-        <li><a href="Sheets/page3.html" class="mainmenu1"><fmt:message key="discount"/></a></li>
+        <li><a href="${pageContext.request.contextPath}/controller?command=promotions-edit" method=POST><fmt:message
+                key="promotion.add"/></a></li>
     </ul>
 </div>
 </body>

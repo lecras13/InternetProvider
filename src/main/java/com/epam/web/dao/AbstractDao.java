@@ -1,7 +1,7 @@
 package com.epam.web.dao;
 
+import com.epam.web.entity.Entity;
 import com.epam.web.exception.DaoException;
-import com.epam.web.extractor.EntityExtractor;
 import com.epam.web.mapper.RowMapper;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -12,20 +12,17 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 import java.util.Optional;
 
-public abstract class AbstractDao<T> implements Dao<T> {
+public abstract class AbstractDao<T extends Entity> implements Dao<T> {
     private static final Logger LOGGER = LogManager.getLogger(AbstractDao.class);
-    private static final String ID = "id";
-    private Connection connection;
-    private RowMapper<T> mapper;
-    private EntityExtractor<T> entityExtractor;
 
-    protected AbstractDao(Connection connection, RowMapper<T> mapper, EntityExtractor<T> entityExtractor) {
+    private final Connection connection;
+    private final RowMapper<T> mapper;
+
+    protected AbstractDao(Connection connection, RowMapper<T> mapper) {
         this.connection = connection;
         this.mapper = mapper;
-        this.entityExtractor = entityExtractor;
     }
 
     protected List<T> executeQuery(String query, Object... params) throws DaoException {
@@ -38,12 +35,12 @@ public abstract class AbstractDao<T> implements Dao<T> {
             }
             return entities;
         } catch (SQLException e) {
-            LOGGER.info("Error with sqlQuery");
+            LOGGER.error("Error with sqlQueryExecute");
             throw new DaoException(e);
         }
     }
 
-    private PreparedStatement createStatement(String query, Object... params) throws SQLException {
+    protected PreparedStatement createStatement(String query, Object... params) throws SQLException {
         PreparedStatement statement = connection.prepareStatement(query);
         for (int i = 1; i <= params.length; i++) {
             statement.setObject(i, params[i - 1]);
@@ -51,55 +48,14 @@ public abstract class AbstractDao<T> implements Dao<T> {
         return statement;
     }
 
-    protected Optional<T> executeForSingleResult(String query, String login, String password) throws DaoException {
-        List<T> items = executeQuery(query, login, password);
-        if (items.size() == 1) {
-            return Optional.of(items.get(0));
-        } else if (items.size() > 1) {
+    @Override
+    public Optional<T> executeForSingleResult(String query, Object... params) throws DaoException {
+        List<T> items = executeQuery(query, params);
+        if (items.size() > 1) {
+            LOGGER.info("More then one record found");
             throw new DaoException("More then one record found");
-        } else {
-            return Optional.empty();
         }
+        return Optional.ofNullable(items.get(0));
     }
-
-
-    public List<T> getAll(String tableName) throws DaoException {
-        return executeQuery("select * from " + tableName);
-    }
-
-    @Override
-    public Optional<T> getById(Long id) throws DaoException {
-        return Optional.empty();
-    }
-
-    @Override
-    public void save(T item) throws DaoException {
-        Map<String, Object> parsed = entityExtractor.parse(item);
-        Object id = parsed.get(ID);
-        Object[] values = (parsed.values()).toArray();
-        PreparedStatement preparedStatement;
-        try {
-            if (id == null) {
-                preparedStatement = createStatement(saveItem(), values);
-            }else {
-                preparedStatement = createStatement(updateItem(), values);
-            }
-            preparedStatement.executeUpdate();
-        } catch (SQLException e) {
-            throw new DaoException(e);
-        }
-    }
-
-    @Override
-    public void removeById(Long id) {
-
-    }
-
-    protected abstract String saveItem();
-
-    protected abstract String updateItem();
-
-    protected abstract String deleteItem();
-
 }
 

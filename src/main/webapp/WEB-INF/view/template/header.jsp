@@ -18,9 +18,10 @@
         <div class="tool-bar">
             <ul>
                 <li><a href="${pageContext.request.contextPath}/index.jsp"><fmt:message key="toolbar.main"/></a></li>
-                <li><a href="/controller?command=tariffs" method=POST><fmt:message key="toolbar.tariff"/></a></li>
-                <li><a href="contact.php"><fmt:message key="toolbar.promotions"/></a></li>
-                <li><a href="${pageContext.request.contextPath}/registration.jsp"><fmt:message key="toolbar.connect"/></a></li>
+                <li><a href="${pageContext.request.contextPath}/controller?command=tariffs" method=POST><fmt:message
+                        key="toolbar.tariff"/></a></li>
+                <li><a href="${pageContext.request.contextPath}/controller?command=promotions" method=POST><fmt:message
+                        key="toolbar.promotions"/></a></li>
             </ul>
         </div>
 
@@ -28,44 +29,42 @@
 
 
             <li>
-                <form method=POST
-                      action="${requestScope['javax.servlet.forward.request_uri']}?${pageContext.request.queryString}">
-                    <input type="hidden" name="sessionLocale" value="en"/>
+                <form method="post" action="${requestScope['javax.servlet.forward.request_uri']}?${pageContext.request.queryString}">
+                    <input type="hidden" name="lang" value="en"/>
                     <button class="button-lang" type="submit"><fmt:message key="label.lang.en"/></button>
                 </form>
             </li>
             <li>
-                <form method=POST
-                      action="${requestScope['javax.servlet.forward.request_uri']}?${pageContext.request.queryString}">
-                    <input type="hidden" name="sessionLocale" value="ru"/>
+                <form method="post" action="${requestScope['javax.servlet.forward.request_uri']}?${pageContext.request.queryString}">
+                    <input type="hidden" name="lang" value="ru"/>
                     <button class="button-lang" type="submit"><fmt:message key="label.lang.ru"/></button>
                 </form>
             </li>
             <li>
-                <form method=POST
-                      action="${requestScope['javax.servlet.forward.request_uri']}?${pageContext.request.queryString}">
-                    <input type="hidden" name="sessionLocale" value="by"/>
+                <form method="post" action="${requestScope['javax.servlet.forward.request_uri']}?${pageContext.request.queryString}">
+                    <input type="hidden" name="lang" value="by"/>
                     <button class="button-lang" type="submit"><fmt:message key="label.lang.by"/></button>
                 </form>
             </li>
 
         </div>
 
-
-        <div class="login">
-            <form action="/controller?command=login" method=POST>
-                <br>
-                <br>
-                <input type="text" name="login" placeholder="<fmt:message key="login.form.log" />">
-                <br>
-                <br>
-                <input type="password" name="password" placeholder="<fmt:message key="login.form.pass" />">
-                <br>
-                <br>
-                <input type="submit" value="<fmt:message key="login.form.button" />">
-            </form>
-            <p class="errorLogin"> ${errorMessage}</p>
-        </div>
+        <c:if test="${(sessionScope.userRole eq null)}">
+            <div class="login">
+                <form action="${pageContext.request.contextPath}/controller?command=login" method=POST>
+                    <br>
+                    <br>
+                    <input type="text" name="login" placeholder="<fmt:message key="login.form.log" />">
+                    <br>
+                    <br>
+                    <input type="password" name="password" placeholder="<fmt:message key="login.form.pass" />">
+                    <br>
+                    <br>
+                    <input type="submit" value="<fmt:message key="login.form.button" />">
+                </form>
+                <p class="errorLogin"> ${errorMessage}</p>
+            </div>
+        </c:if>
     </div>
 </header>
 </body>

@@ -1,6 +1,6 @@
 package com.epam.web.exception;
 
-public class ConnectionPoolException extends RuntimeException{
+public class ConnectionPoolException extends RuntimeException {
     public ConnectionPoolException() {
         super();
     }

@@ -6,8 +6,6 @@ public enum Role {
     String currency;
 
     Role(String currency) {
-    this.currency = currency;
+        this.currency = currency;
     }
-
-    Role(){}
 }

@@ -1,16 +1,21 @@
 package com.epam.web.entity;
 
-public class TariffPlan extends Entity {
+public class TariffPlan implements Entity {
+    private final Long id;
     private String tariffName;
     private Integer price;
-    private String prescription;
+    private String description;
 
-
-    public TariffPlan(Long id, String tariffName, Integer price, String prescription) {
-        super(id);
+    public TariffPlan(Long id, String tariffName, Integer price, String description) {
+        this.id = id;
         this.tariffName = tariffName;
         this.price = price;
-        this.prescription = prescription;
+        this.description = description;
+    }
+
+    @Override
+    public Long getId() {
+        return id;
     }
 
     public String getTariffName() {
@@ -29,48 +34,43 @@ public class TariffPlan extends Entity {
         this.price = price;
     }
 
-    public String getPrescription() {
-        return prescription;
+    public String getDescription() {
+        return description;
     }
 
     public void setDescription(String description) {
-        this.prescription = description;
+        this.description = description;
     }
 
     @Override
     public boolean equals(Object o) {
-        if (this == o){
-            return true;
-        }
-        if (o == null || getClass() != o.getClass()){
-            return false;
-        }
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
 
         TariffPlan that = (TariffPlan) o;
 
-        if (tariffName != null ? !tariffName.equals(that.tariffName) : that.tariffName != null){
-            return false;
-        }
-        if (price != null ? !price.equals(that.price) : that.price != null){
-            return false;
-        }
-        return prescription != null ? prescription.equals(that.prescription) : that.prescription == null;
+        if (id != null ? !id.equals(that.id) : that.id != null) return false;
+        if (tariffName != null ? !tariffName.equals(that.tariffName) : that.tariffName != null) return false;
+        if (price != null ? !price.equals(that.price) : that.price != null) return false;
+        return description != null ? description.equals(that.description) : that.description == null;
     }
 
     @Override
     public int hashCode() {
-        int result = tariffName != null ? tariffName.hashCode() : 0;
+        int result = id != null ? id.hashCode() : 0;
+        result = 31 * result + (tariffName != null ? tariffName.hashCode() : 0);
         result = 31 * result + (price != null ? price.hashCode() : 0);
-        result = 31 * result + (prescription != null ? prescription.hashCode() : 0);
+        result = 31 * result + (description != null ? description.hashCode() : 0);
         return result;
     }
 
     @Override
     public String toString() {
         return "TariffPlan{" +
-                "tariffName='" + tariffName + '\'' +
+                "id=" + id +
+                ", tariffName='" + tariffName + '\'' +
                 ", price=" + price +
-                ", description='" + prescription + '\'' +
+                ", description='" + description + '\'' +
                 '}';
     }
 }

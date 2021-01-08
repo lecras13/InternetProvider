@@ -1,6 +1,7 @@
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page contentType="text/html;charset=UTF-8" pageEncoding="UTF-8" language="java" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
+<%@ taglib prefix="ctg" uri="customtags" %>
 <%@ page isELIgnored="false" %>
 <%@ page session="true" %>
 
@@ -28,7 +29,8 @@
             <hr/>
             <div class="right">
                 <H2>Hello, ${sessionScope.login}!</H2>
-                <a href="/controller?command=logout">Logout</a>
+                <a><ctg:info-time/></a>
+                <a href="${pageContext.request.contextPath}/controller?command=logout">Logout</a>
 
             </div>
             <hr/>
@@ -40,7 +42,7 @@
             <hr/>
             <div class="right">
                 <H2>Hello, ${sessionScope.login}!</H2>
-                <a href="/controller?command=logout">Logout</a>
+                <a href="${pageContext.request.contextPath}/controller?command=logout">Logout</a>
             </div>
             <hr/>
         </c:if>
@@ -48,6 +50,8 @@
 
     <div class="content">
         <H2 align="middle"><fmt:message key="label.welcome"/></H2>
+        <div class="info">
+        </div>
     </div>
 </div>
 

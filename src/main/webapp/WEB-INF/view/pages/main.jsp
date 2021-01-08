@@ -1,6 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
+<%@ taglib prefix="ctg" uri="customtags" %>
 <%@ page isELIgnored="false" %>
 <%@ page session="true" %>
 
@@ -10,7 +11,6 @@
 
 <html lang="${sessionScope.lang}">
 <head>
-    <meta charset="UTF-8">
     <title>InternetProvider</title>
     <link rel="stylesheet" href="${pageContext.request.contextPath}/static/styles/index.css">
 </head>
@@ -32,12 +32,16 @@
         </c:if>
     </nav>
     <div id="content">
-        <hr/>
-        <div class="right">
-            <H2>Hello, ${sessionScope.login}!</H2>
-            <a href="/controller?command=logout">Logout</a>
+
+            <hr/>
+            <div class="right">
+                <H2>Hello, ${sessionScope.login}!</H2>
+                <a><ctg:info-time/></a>
+                <a href="${pageContext.request.contextPath}/controller?command=logout"><fmt:message key="logout.form.button"/></a>
+            </div>
+            <hr/>
+        <div class="info">
         </div>
-        <hr/>
     </div>
 </div>
 
